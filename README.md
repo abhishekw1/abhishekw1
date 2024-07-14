@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Wadalkar! 👋
 
-### Frontend Developer | Angular Specialist
+### Frontend Developer | Angular Developer
 
 I have 3+ years of experience as a Frontend Developer, building dynamic and responsive web applications using:
 - HTML
