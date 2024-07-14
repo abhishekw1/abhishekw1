@@ -35,10 +35,10 @@ I have 3+ years of experience as a Frontend Developer, building dynamic and resp
 
 ## 🌟 Projects
 
-### [CoffeeLog](https://github.com/abhishekw1/CoffeeLog)
+### [CoffeeLog](https://abhishekw1.github.io/coffeelog/)
 Developed a Progressive Web Application (PWA) using Angular 17 with features like offline functionality, push notifications, and responsive design.
 
-### [Pet Appointment Management System](https://github.com/abhishekw1/Pet-Appointment-Management-System)
+### [Pet Appointment Management System](https://abhishekw1.github.io/DrPetAppointment/)
 Built a robust system using Angular 17 and Bootstrap to manage pet appointments, offering functionality for adding, searching, and updating appointments.
 
 ### [Medium Clone](https://abhishekw1.github.io/mediumclone_angular/global-feed)
