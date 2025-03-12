@@ -2,13 +2,14 @@
 
 ### Frontend Developer | Angular Developer
 
-I have 3+ years of experience as a Frontend Developer, building dynamic and responsive web applications using:
+I have 4 years of experience as a Frontend Developer, building dynamic and responsive web applications using:
 - HTML
 - CSS
 - Angular
 - TypeScript
 - RxJS
 - NgRx
+- React Js
 
 ---
 
